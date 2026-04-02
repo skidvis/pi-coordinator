@@ -1,0 +1,13 @@
+{
+  "name": "pi-coordinator",
+  "version": "1.0.0",
+  "description": "Four-phase workflow: Research → Synthesis → Implementation → Verification, based on Claude Code coordinator feature preview.",
+  "keywords": ["pi-package"],
+  "pi": {
+    "extensions": ["./extensions"]
+  },
+  "peerDependencies": {
+    "@mariozechner/pi-coding-agent": "*",
+    "@sinclair/typebox": "*"
+  }
+}

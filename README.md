@@ -2,6 +2,8 @@
 
 A [pi](https://github.com/mariozechner/pi-coding-agent) extension that transforms the primary agent into a pure dispatcher/orchestrator. The coordinator is locked to one tools (`dispatch_agent`) and delegates all real work to a built-in team of three specialist subagents.
 
+![pi-coordinator screenshot](Screenshot.png)
+
 ## Table of Contents
 
 - [Based On](#based-on)
